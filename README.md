@@ -4,6 +4,8 @@ An AI assistant that drafts replies to customer emails for **Ridgeline Plumbing 
 
 > Ridgeline is made up, and every email here is fake. This is a portfolio demo.
 
+![The assistant flagging a price question](screenshots/app.png)
+
 ## The problem
 
 A small trades office spends hours every week answering the same emails: *How much to come out? Do you work in my city? What's your warranty? Can someone come this week?* Every answer is already known, but someone still has to type it, often while the phones are ringing.

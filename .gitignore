@@ -2,3 +2,6 @@ __pycache__/
 .env
 .venv/
 run_log.txt
+video/*.mp4
+video/beats*.json
+video/frames/
